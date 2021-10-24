@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LADM_U2_Practica2_JuegoDeLasMoscas</string>
+        <string-array name="dificil">
+            <item>Facil</item>
+            <item>Medio</item>
+            <item >Dificil</item>
+        </string-array>
+</resources>
